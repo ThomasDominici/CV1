@@ -1,6 +1,7 @@
 # Thomas Dominici
 ## Technicien supérieur systèmes et réseaux
-![Photo CV](https://github.com/ThomasDominici/CV/assets/144700255/39120095-e909-46a8-82d4-bc86eeec4c2f)
+![Photo CV](https://github.com/ThomasDominici/CV1/assets/144700255/6847ffef-3257-452b-af80-95cf3be374ef)
+
 
 # Présentation
 
